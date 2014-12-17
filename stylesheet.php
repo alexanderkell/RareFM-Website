@@ -123,7 +123,7 @@ opacity:0.91;	opacity: 0.95;
 {
 	width: 1050px;
 	margin: 0px 0px;
-	background-color: rgba(172, 172, 172, 0.85);
+	background-color: rgba(21, 28, 36, 0.94);
 	border-left:0px solid gray;
 	border-right:0px solid gray;
 	text-align:left;
@@ -146,7 +146,7 @@ opacity:0.91;	opacity: 0.95;
 	margin-left: 12px;
 	padding: 0px;
 	top: 300px;
-	height: 455px;
+	height: 480px;
 }
 
 #eventsIsland{

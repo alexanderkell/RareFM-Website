@@ -118,7 +118,7 @@
 					<div id="cbp-fwslider" class="cbp-fwslider">
 						<ul>
 						
-							<li><a href="https://www.facebook.com/events/766919600067697/?ref_dashboard_filter=upcoming"><img src="images/10429429_688368971212102_4932303933165921910_n.jpg" alt="img05" width="663" height="407"/></a>
+							<li><a href="https://www.facebook.com/events/766919600067697/?ref_dashboard_filter=upcoming"><img src="images/10429429_688368971212102_4932303933165921910_n.jpg" alt="img05" width="663" height="433"/></a>
 								<div id="descrBox">
 									<div id="descrText">
 										<p id="descrTitle">Rare Fest - Presents: Very Special Guest</p>
@@ -131,7 +131,7 @@
 								</div>	
 							</li>
 						
-							<li><a href="https://www.facebook.com/events/289665274516179/?source=3&source_newsfeed_story_type=regular"><img src="images/970465_10151584557223605_837867665_n-700x325.jpg" alt="img05" width="663" height="407"/></a>
+							<li><a href="https://www.facebook.com/events/289665274516179/?source=3&source_newsfeed_story_type=regular"><img src="images/970465_10151584557223605_837867665_n-700x325.jpg" alt="img05" width="663" height="433"/></a>
 								<div id="descrBox">
 									<div id="descrText">
 										<p id="descrTitle">Rare Sessions - Presents: King's Cross</p>
@@ -142,7 +142,7 @@
 									</div>
 								</div>	
 							</li>
-							<li><a href="#"><img src="images/tshirt.jpg" alt="Rare FM T-Shirt" width="663" height="407""/></a>
+							<li><a href="#"><img src="images/tshirt.jpg" alt="Rare FM T-Shirt" width="663" height="433""/></a>
 								<div id="descrBox">
 									<div id="descrText">
 										<p id="descrTitle">New Rare FM T Shirt</p>
@@ -154,7 +154,7 @@
 								</div>	
 							</li>
 							
-							<li><a href="#"><img src="images/snow-front-quad.jpg" alt="img03" width="663" height="407"/></a>
+							<li><a href="#"><img src="images/snow-front-quad.jpg" alt="img03" width="663" height="433"/></a>
 								<div id="descrBox">
 									<div id="descrText">
 										<p id="descrTitle">RareFM's Christmas Quiz!</p>
@@ -165,7 +165,7 @@
 									</div>
 								</div>	
 							</li>
-							<li><a href="#"><img src="images/1380411_10151888927163754_348921041_n.jpg" alt="img02" width="663" height="407"/></a>
+							<li><a href="#"><img src="images/1380411_10151888927163754_348921041_n.jpg" alt="img02" width="663" height="433"/></a>
 								<div id="descrBox">
 									<div id="descrText">
 										
