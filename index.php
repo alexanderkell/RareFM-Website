@@ -208,7 +208,7 @@
 					
 					<div id ="chatBox">
 					<!-- <noscript>Enable Javascript to get full functionality of this <br /></noscript><iframe src="http://rarefm.freeshoutbox.net/" height="170" width="357" frameborder="0"></iframe> -->
-					<script id="cid0020000077817808107" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 357px;height: 200px;">{"handle":"rarefmstudio","arch":"js","styles":{"a":"343E4B","b":100,"c":"FFFFFF","d":"FFFFFF","k":"343E4B","l":"343E4B","m":"343E4B","n":"FFFFFF","q":"343E4B","r":100,"t":0,"usricon":0}}</script>					</div>
+					<script id="cid0020000077817808107" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 365px;height: 200px;">{"handle":"rarefmstudio","arch":"js","styles":{"a":"343E4B","b":100,"c":"FFFFFF","d":"FFFFFF","k":"343E4B","l":"343E4B","m":"343E4B","n":"FFFFFF","q":"343E4B","r":100,"t":0,"usricon":0}}</script>					</div>
 
 					<div id="cc_tunein">
 						<div id="openStream">Open stream with your local media player</div>
@@ -249,8 +249,8 @@
 		</div>
 
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-		<script src="js/jquery.cbpFWSlider.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+		<script src="js/jquery.cbpFWSlider.js"></script>
 		<script>
 			$( function() {
 				/*

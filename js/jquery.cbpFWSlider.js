@@ -83,7 +83,7 @@
 			// each item will have a width of 100 / itemsCount
 			this.$items.css( 'width', 100 / this.itemsCount + '%' );
 			// add navigation arrows and the navigation dots if there is more than 1 item
-			if( this.itemsCount > 10 ) {
+			if( this.itemsCount > 1 ) {
 
 				// add navigation arrows (the previous arrow is not shown initially):
 				this.$navPrev = $( '<span class="cbp-fwprev">&lt;</span>' ).hide();
@@ -96,8 +96,6 @@
 					var dot = i === this.current ? '<span class="cbp-fwcurrent"></span>' : '<span></span>';
 					dots += dot;
 				}
-				var navDots = $( '<div class="cbp-fwdots"/>' ).append( dots ).appendTo( this.$el );
-				this.$navDots = navDots.children( 'span' );
 
 			}
 
