@@ -377,16 +377,16 @@ opacity:0.91;	opacity: 0.95;
 	margin-top:33px;
 }
 #social{
-	width: 31%;
+	width: 31.6%;
 	height: 100%;
-	margin-right: 2%;
+	margin-right: 1%;
 	margin-top: -1%;
 	float: left;
 	background-color: #262D33;
 opacity:0.91;	position: relative;
 	margin-right: 1% bottom:0px;
 	left: 0px;
-	border-radius: 5px;
+	border-radius: 2px;
 	box-shadow: rgba(0, 0, 0, 0.3) 2px 3px 3px;
 	height: 420px;
 }
